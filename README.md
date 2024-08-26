@@ -1,6 +1,6 @@
 # My Projects
 
-### Name 1
+### ShipCalcs
 Text here
 
 ### Name 2
